@@ -8,7 +8,7 @@ const WidgetSm = () => {
             <span className="WidgetSmTitle">New Join Members</span>
             <ul className="WidgetList">
                 <li className="WidgetItem">
-                    <img src="https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500" className="WidgetImg"/>
+                    <img alt="sample" src="https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500" className="WidgetImg"/>
                     <div className="widgeSmUser">
                         <span className="widgeSmUsername">Jony Keller</span>
                         <span className="widgeSmUsertitle">Software Developer</span>
@@ -17,7 +17,7 @@ const WidgetSm = () => {
                 </li>
 
                 <li className="WidgetItem">
-                    <img src="https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500" className="WidgetImg"/>
+                    <img alt="sample" src="https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500" className="WidgetImg"/>
                     <div className="widgeSmUser">
                         <span className="widgeSmUsername">Jony Keller</span>
                         <span className="widgeSmUsertitle">Software Developer</span>
@@ -26,7 +26,7 @@ const WidgetSm = () => {
                 </li>
 
                 <li className="WidgetItem">
-                    <img src="https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500" className="WidgetImg"/>
+                    <img alt="sample" src="https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500" className="WidgetImg"/>
                     <div className="widgeSmUser">
                         <span className="widgeSmUsername">Jony Keller</span>
                         <span className="widgeSmUsertitle">Software Developer</span>
@@ -35,7 +35,7 @@ const WidgetSm = () => {
                 </li>
 
                 <li className="WidgetItem">
-                    <img src="https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500" className="WidgetImg"/>
+                    <img alt="sample" src="https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500" className="WidgetImg"/>
                     <div className="widgeSmUser">
                         <span className="widgeSmUsername">Jony Keller</span>
                         <span className="widgeSmUsertitle">Software Developer</span>
@@ -44,7 +44,7 @@ const WidgetSm = () => {
                 </li>
 
                 <li className="WidgetItem">
-                    <img src="https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500" className="WidgetImg"/>
+                    <img alt="sample" src="https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500" className="WidgetImg"/>
                     <div className="widgeSmUser">
                         <span className="widgeSmUsername">Jony Keller</span>
                         <span className="widgeSmUsertitle">Software Developer</span>

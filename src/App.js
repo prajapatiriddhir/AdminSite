@@ -5,8 +5,7 @@ import "./App.css";
 import {
   BrowserRouter as Router,
   Switch,
-  Route,
-  Link
+  Route
 } from "react-router-dom";
 import UserList from "./pages/users/UserList";
 import User from "./pages/user/User";
