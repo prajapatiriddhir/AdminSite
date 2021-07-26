@@ -1,0 +1,135 @@
+.product{
+    flex: 4;
+    padding: 20px;
+}
+
+
+.productTitleContaine{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.btnData{
+    width: 80px;
+    border: none;
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 16px;
+    background-color: teal;
+    cursor: pointer;
+}
+
+.proTop{
+    display: flex;
+
+}
+
+.proleft,.proright{
+    flex:2;
+}
+
+.proright{
+    padding: 20px;
+    margin: 20px;
+    -webkit-box-shadow: 0px 0px 11px -1px #000000; 
+box-shadow: 0px 0px 11px -1px #000000;
+padding: 20px;
+margin-right: 20px;
+}
+
+.proImg{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 20px;
+
+
+}
+
+.proInfoValue{
+    font-weight: 300 ;
+}
+
+.proItems{
+    width: 150px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.proInfoBottom{
+    margin-top: 10px;
+}
+
+.proName{
+    font-weight: 600;
+}
+
+.proInfoTop{
+    display: flex;
+    align-items: center;
+}
+
+.proBottom{
+    padding: 20px;
+    margin: 20px;
+    -webkit-box-shadow: 0px 0px 11px -1px #000000; 
+    box-shadow: 0px 0px 11px -1px #000000;
+}
+
+.proForm{
+    display: flex;
+    justify-content: space-between;
+}
+
+.formLeft{
+    display: flex;
+    flex-direction: column;
+}
+
+.formLeft>label{
+    margin-bottom: 10px;
+    color: gray;
+}
+
+.formLeft>input{
+    margin-bottom: 10px;
+    border: none;
+    padding: 5px;
+    border-bottom: 1px solid gray;
+}
+
+.formLeft>select{
+    margin-bottom: 10px;
+
+}
+
+.uplaodImg{
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    object-fit: cover;
+    margin-right: 20px;
+}
+
+.formRight{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.proUpadol{
+    display: flex;
+    align-items: center;
+}
+
+.btnUpdate{
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: darkblue;
+}
